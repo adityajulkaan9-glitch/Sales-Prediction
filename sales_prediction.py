@@ -152,4 +152,3 @@ print("Advertising Spend: 750")
 print(f"Predicted Sales: {predicted_sales:.2f}")
 
 print("\nDone!")
-```
